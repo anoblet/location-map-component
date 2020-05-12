@@ -1,0 +1,24 @@
+{
+  "name": "@victorycto/location-map-component",
+  "version": "1.0.1",
+  "description": "[![edit-in-WebComponents.dev](https://webcomponents.dev/assets/ext/edit_in_wcd.svg)](https://webcomponents.dev/edit/iZg9ZTEMbE1h7xlQ6dUm)\r # LitElement Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoblet/location-map-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoblet/location-map-component/issues"
+  },
+  "homepage": "https://github.com/anoblet/location-map-component#readme",
+  "dependencies": {
+    "@material/mwc-button": "^0.15.0",
+    "lit-element": "^2.3.1"
+  }
+}
